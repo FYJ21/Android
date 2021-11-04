@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="length1">
+        <item>千米</item>
+        <item>米</item>
+        <item>分米</item>
+        <item>厘米</item>
+        <item>毫米</item>
+        <item>微米</item>
+    </string-array>
+    <string-array name="length2">
+        <item>千米</item>
+        <item>米</item>
+        <item>分米</item>
+        <item>厘米</item>
+        <item>毫米</item>
+        <item>微米</item>
+    </string-array>
+    <string-array name="volume1">
+        <item>立方米</item>
+        <item>立方分米</item>
+        <item>立方厘米</item>
+        <item>升</item>
+        <item>毫升</item>
+    </string-array>
+    <string-array name="volume2">
+        <item>立方米</item>
+        <item>立方分米</item>
+        <item>立方厘米</item>
+        <item>升</item>
+        <item>毫升</item>
+    </string-array>
+</resources>
